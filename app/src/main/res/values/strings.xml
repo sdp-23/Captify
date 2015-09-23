@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Captify</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="client_id">f12b2a9e86a24fbb8c9fe6ef92831aa5</string>
+    <string name="client_secret">c1dbf49067b54dbbbc8744ec1ab235b6</string>
+    <string name="redirect_uri">captify://callback</string>
+</resources>
